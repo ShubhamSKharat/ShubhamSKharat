@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Coding Enthusiast from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshkharat&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkharat" /> </p>
-
 - 📫 How to reach me **shubkharat1@gmail.com**
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1aw3WDDrVEdZ7x77DgAGCFmmoosdTuPLm/view?usp=drivesdk](https://drive.google.com/file/d/1IU9_BG1h5a3z71bW2kcPsCHeR3JjL6iE/view?usp=drivesdk)]([https://drive.google.com/file/d/1aw3WDDrVEdZ7x77DgAGCFmmoosdTuPLm/view?usp=drivesdk](https://drive.google.com/file/d/1IU9_BG1h5a3z71bW2kcPsCHeR3JjL6iE/view?usp=drivesdk))
