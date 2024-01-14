@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shubkharat1@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1aw3WDDrVEdZ7x77DgAGCFmmoosdTuPLm/view?usp=drivesdk](https://drive.google.com/file/d/1IU9_BG1h5a3z71bW2kcPsCHeR3JjL6iE/view?usp=drivesdk)]([https://drive.google.com/file/d/1aw3WDDrVEdZ7x77DgAGCFmmoosdTuPLm/view?usp=drivesdk](https://drive.google.com/file/d/1IU9_BG1h5a3z71bW2kcPsCHeR3JjL6iE/view?usp=drivesdk))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1aw3WDDrVEdZ7x77DgAGCFmmoosdTuPLm/view?usp=drivesdk](https://drive.google.com/file/d/1IU9_BG1h5a3z71bW2kcPsCHeR3JjL6iE/view?usp=drivesdk)]
 
 
 <h3 align="left">Languages and Tools:</h3>
